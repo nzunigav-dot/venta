@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nombre": "Arroz",
+        "descripcion": "Arroz de 1 kg",
+        "precio": 1.25,
+        "stock": 40,
+        "stock_minimo": 10
+    }
+]
